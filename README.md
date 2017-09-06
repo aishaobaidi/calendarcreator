@@ -7,5 +7,7 @@ To use this please create your own certificates and update the event dates and g
 ## Requirements
 
 `sudo easy_install pip`
+
 `pip install --ignore-installed six`
+
 `pip install --upgrade google-api-python-client`
